@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: white;
+}
+div {
+    background: green;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    font-weight: normal;
+    text-transform: uppercase;
+}
+span {
+    color: black;
+}
+a {
+    color: yellow;
+}
